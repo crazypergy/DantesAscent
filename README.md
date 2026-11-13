@@ -60,7 +60,7 @@ A Windows build will also be available on itch.io.
 
 ## License
 
-Copyright © 2026 [Your Name]. All rights reserved.
+Copyright © 2026 Carl O'Brien. All rights reserved.
 
 This project and all associated assets (code, art, audio, design) may not be copied, modified, redistributed, or used commercially without explicit written permission from the author.
 
